@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Projects"
+    url: /projects/    
+
+  - title: "News"
+    url: /news/    
+    
+ # - title: "Portfolio"
+ #  url: /portfolio/
+        
+  - title: "Blog Posts"
+    url: /blogs/
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Contect Me"
+    url: /connect_me/
