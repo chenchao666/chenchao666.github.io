@@ -11,7 +11,7 @@ redirect_from:
 **Chao Chen** Candidate Ph.D in Zhejiang University of China.
 
 ## <span style="color: green"> Research Interests </span>
-My research interests cover a range of issues : **Statistics and Optimization**, **Deep Learning**, **Transfer Learning**, and their Applications in Computer Vision. Currently, I am working on Domain Adaptation and their applications to computer vision (semantic segmentation, object detection, etc.).
+My research interests cover a range of issues : **Statistics and Optimization**, **Deep Learning**, **Transfer Learning**, and their Applications to Computer Vision and Biomedical Informatics. Currently, I am working on Domain Adaptation and their applications to semantic segmentation and object detection.
 
 ## <span style="color: green"> Education </span>
 * **Sep 2016 - now:** **PhD Candidate** in Zhejiang University (ZJU), Hangzhou, China
