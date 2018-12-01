@@ -52,8 +52,8 @@ the common subspace,” **Neural Computing and Applications**. [paper](https://l
 *  &nbsp; &nbsp; **Full** 2013  &nbsp; &nbsp; &nbsp; National Scholarship (<1%)
 
 ## <span style="color: green"> Membership </span>
-IEEE Student Member
-AAAI Student Member
+* IEEE Student Member
+* AAAI Student Member
 
 
 
