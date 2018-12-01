@@ -11,7 +11,7 @@ redirect_from:
 **Chao Chen** Candidate Ph.D in Zhejiang University of China.
 
 ## <span style="color: green"> Research Interests </span>
-My research interests cover a range of issues : **Statistics and Optimization**, **Deep Learning**, **Transfer Learning**, and their Applications to Computer Vision and Biomedical Informatics. Currently, I am working on Domain Adaptation and their applications to semantic segmentation and object detection.
+My research interests cover a range of issues : **Statistics and Optimization**, **Deep Learning**, **Transfer Learning**, and their Applications to Computer Vision and Biomedical Informatics. Currently, I am working on Domain Adaptation and their applications to semantic segmentation.
 
 ## <span style="color: green"> Education </span>
 * **Sep 2016 - now:** **PhD Candidate** in Zhejiang University (ZJU), Hangzhou, China
@@ -22,7 +22,9 @@ My research interests cover a range of issues : **Statistics and Optimization**,
   - **GPA:** 3.81/4.0 \| **Rank:** 1/58 &nbsp;&nbsp; **Average Score:** 91.66/100 \| **Rank:** 1/58
 
 ## <span style="color: green"> Publications </span>
-* Boyuan Jiang, **Chao Chen**, Zhihong Chen, Xinyu Jin “An I2I-CBIR method for Unsupervised Domain Adaptation,” **Neural Networks (submitted)**.
+* Zhihong Chen, **Chao Chen**, Boyuan Jiang, Xinyu Jin “Deep Joint Two-stream Wasserstein Auto-Encoder and Selective Attention
+Alignment for Unsupervised Domain Adaptation,” **Knowledge-Based systems(submitted)**.
+* Boyuan Jiang, **Chao Chen**, Zhihong Chen, Xinyu Jin “An I2I-CBIR method for Unsupervised Domain Adaptation,” **Neural Computing and Applications (submitted)**.
 * **Chao Chen**, Zhihong Chen, Boyuan Jiang, Xinyu Jin “Joint Domain Alignment and Discriminative Feature Learning for Unsupervised Deep Domain Adaptation,” **AAAI 2019**. [paper](https://arxiv.org/abs/1808.09347) [code](https://github.com/chenchao666/JDDA-Master)
 * **Chao Chen**, Boyuan Jiang, Zhaowei Cheng, Xinyu Jin “Joint Domain Matching and Classification for Cross-Domain Adaptation Via ELM,” **Neurocomputing, (Revised)** [code](https://github.com/chenchao666/JDMC)
 * **Chao Chen**, Xinyu Jin, Boyuan Jiang, Lanjuan Li “Optimizing Extreme Learning Machine via Generalized Hebbian Learning
