@@ -18,7 +18,7 @@ My research interests cover a range of issues : **Statistics and Optimization**,
   - **Major:**  Electronic Science and Technology in the school of Information Science and Electronic Enginerring 
   - **Lab:** Center for Intelligent Information Processing and Smart Healthcare
 * **Sep 2012 - Jun 2016:** **Bachelor of Engineering** Anhui University (AHU), Hefei, China
-  - **Major:**  Internest of Things Engineering
+  - **Major:**  Internest of Things
   - **GPA:** 3.81/4.0 \| **Rank:** 1/58 &nbsp;&nbsp; **Average Score:** 91.66/100 \| **Rank:** 1/58
 
 ## <span style="color: green"> Publications </span>
@@ -40,6 +40,7 @@ the common subspace,” **Neural Computing and Applications**. [paper](https://l
 * **Machine Learning :** master in **Convolutional neural networks (CNNs)**, **Domain Adaptaion**, **Extreme Learning Machine**.
   - Familiar with most statistical machine learning/signal processing algorithms/techqiues. 
   - Familiar with (convex and non-convex) optimization theory, matrix analysis. 
+  - Familiar with CNN-Based Image Tranformation methods, including Super-Resolution, Image-Completion, Image-Style-Transfer and Semantic-Segmentation, etc.
 
 ## <span style="color: green"> Honors & Awards </span>(selected)
 *  &nbsp; &nbsp; **Fall** 2016  &nbsp; &nbsp; &nbsp; Excellent doctoral freshmen scholarship (select 57 from all doctoral freshmen)
