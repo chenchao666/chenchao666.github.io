@@ -19,12 +19,12 @@ My research interests cover a range of issues : **Statistics and Optimization**,
   - **Major:**  Electronic Science and Technology in the school of Information Science and Electronic Enginerring 
   - **Lab:** Center for Intelligent Information Processing and Smart Healthcare
 * **Sep 2012 - Jun 2016:** **Bachelor of Engineering** Anhui University (AHU), Hefei, China
-  - **Major:**  Internest of Things Engineering
+  - **Major:**  Internest of Things.
   - **GPA:** 3.81/4.0 \| **Rank:** 1/58 &nbsp;&nbsp; **Average Score:** 91.66/100 \| **Rank:** 1/58
 
 ## <span style="color: green"> Publications </span>
 * Zhihong Chen, **Chao Chen**, Boyuan Jiang, Xinyu Jin “Deep Joint Two-stream Wasserstein Auto-Encoder and Selective Attention
-Alignment for Unsupervised Domain Adaptation,” **Knowledge-Based systems(Submitted)**.
+Alignment for Unsupervised Domain Adaptation,” **Knowledge-Based Systems(Submitted)**.
 * Boyuan Jiang, **Chao Chen**, Zhihong Chen, Xinyu Jin “An I2I-CBIR method for Unsupervised Domain Adaptation,” **Neural Computing and Applications (submitted)**.
 * **Chao Chen**, Zhihong Chen, Boyuan Jiang, Xinyu Jin “Joint Domain Alignment and Discriminative Feature Learning for Unsupervised Deep Domain Adaptation,” **AAAI 2019**. [paper](https://arxiv.org/abs/1808.09347) [code](https://github.com/chenchao666/JDDA-Master)
 * **Chao Chen**, Boyuan Jiang, Zhaowei Cheng, Xinyu Jin “Joint Domain Matching and Classification for Cross-Domain Adaptation Via ELM,” **Neurocomputing, (Revised)** [code](https://github.com/chenchao666/JDMC)
@@ -42,14 +42,14 @@ the common subspace,” **Neural Computing and Applications**. [paper](https://l
   - Familiar with (convex and non-convex) optimization theory, matrix analysis. 
 
 ## <span style="color: green"> Honors & Awards </span>(selected)
-*  &nbsp; &nbsp; **Full** 2016  &nbsp; &nbsp; &nbsp; Excellent doctoral freshmen scholarship (select 57 from all doctoral freshmen)
+*  &nbsp; &nbsp; **Fall** 2016  &nbsp; &nbsp; &nbsp; Excellent doctoral freshmen scholarship (select 57 from all doctoral freshmen)
 * **Summer** 2016 &nbsp; Top 10 outstanding undergraduate student in School of Electronic Information Engineering, Anhui University (select Top 10 from 500)
 * **Summer** 2016 &nbsp; Outstanding graduate student of Anhui Province (<3%)
 * **Summer** 2016 &nbsp; Excellent graduate student of Anhui University 
-*  &nbsp; &nbsp; **Full** 2015  &nbsp; &nbsp; &nbsp; National Scholarship for Encouragement
+*  &nbsp; &nbsp; **Fall** 2015  &nbsp; &nbsp; &nbsp; National Scholarship for Encouragement
 * &nbsp; **Spring** 2015 &nbsp; &nbsp; First Prize of International Mathematical Modeling Competition 
-*  &nbsp; &nbsp; **Full** 2014  &nbsp; &nbsp; &nbsp; Excellent Student Scholarship (select Top 2 from 58)
-*  &nbsp; &nbsp; **Full** 2013  &nbsp; &nbsp; &nbsp; National Scholarship (<1%)
+*  &nbsp; &nbsp; **Fall** 2014  &nbsp; &nbsp; &nbsp; Excellent Student Scholarship (select Top 2 from 58)
+*  &nbsp; &nbsp; **Fall** 2013  &nbsp; &nbsp; &nbsp; National Scholarship (<1%)
 
 
 
