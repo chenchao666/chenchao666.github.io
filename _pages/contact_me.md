@@ -4,7 +4,7 @@ title: "Contact with Me"
 author_profile: true
 redirect_from: 
   - /md/
-  - /connect_me.html
+  - /contact_me.html
 ---
 
 
