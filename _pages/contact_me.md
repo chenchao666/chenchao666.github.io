@@ -1,5 +1,5 @@
 ---
-permalink: /connect_me/
+permalink: /contact_me/
 title: "Contact with Me"
 author_profile: true
 redirect_from: 
