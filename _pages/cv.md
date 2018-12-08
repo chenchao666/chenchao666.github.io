@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ### <span style="color: green"> Bio. </span> 
-**Chao Chen** Candidate Ph.D in Zhejiang University of China. [## <span style="color: green"> CV </span>](https://github.com/chenchao666/chenchao666.github.io/blob/master/files/CV.pdf)
+**Chao Chen** Candidate Ph.D in Zhejiang University of China. [<span style="color: green"> CV </span>](https://github.com/chenchao666/chenchao666.github.io/blob/master/files/CV.pdf)
 
 ## <span style="color: green"> Research Interests </span>
 My research interests cover a range of issues : **Statistics and Optimization**, **Deep Learning**, **Transfer Learning**, and their Applications to Computer Vision and Biomedical Informatics. Currently, I am working on Domain Adaptation and their applications to semantic segmentation.
