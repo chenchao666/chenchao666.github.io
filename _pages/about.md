@@ -36,7 +36,7 @@ the common subspace,” **Neural Computing and Applications**. [paper](https://l
 ## <span style="color: green"> Skills </span>
 * **Programming Skills :** **Python**, **Matlab**, C/C++, \LATEX, Git.
 * **Machine Learning :** master in **Convolutional neural networks (CNNs)**, **Domain Adaptaion**, **Extreme Learning Machine**.
-  - Familiar with most statistical machine learning/signal processing algorithms/techqiues. 
+  - Familiar with most statistical machine learning/signal processing algorithms/techques. 
   - Familiar with (convex and non-convex) optimization theory, matrix analysis. 
 * **Applications :** Familiar with CNN-Based Image Tranformation methods, including Super-Resolution, Image-Completion, Image-Style-Transfer and Semantic-Segmentation, etc.
 
