@@ -22,7 +22,7 @@ My research interests cover a range of issues : **Statistics and Optimization**,
   - **GPA:** 3.81/4.0 \| **Rank:** 1/58 &nbsp;&nbsp; **Average Score:** 91.66/100 \| **Rank:** 1/58
 
 ## <span style="color: green"> Publications </span>
-* Zhihong Chen, **Chao Chen**, Boyuan Jiang, Xinyu Jin “Deep Joint Two-stream Wasserstein Auto-Encoder and Selective Attention Alignment for Unsupervised Domain Adaptation,” **(Neural Computing and Applications, Under Review)**.
+* Zhihong Chen, **Chao Chen**, Boyuan Jiang, Xinyu Jin “Deep Joint Two-stream Wasserstein Auto-Encoder and Selective Attention Alignment for Unsupervised Domain Adaptation,” **Neural Computing and Applications (Under Review)**.
 * **Chao Chen**, Zhihong Chen, Boyuan Jiang, Xinyu Jin “Joint Domain Alignment and Discriminative Feature Learning for Unsupervised Deep Domain Adaptation,” **AAAI 2019**. [paper](https://arxiv.org/abs/1808.09347) [code](https://github.com/chenchao666/JDDA-Master)
 * **Chao Chen**, Boyuan Jiang, Zhaowei Cheng, Xinyu Jin “Joint Domain Matching and Classification for Cross-Domain Adaptation Via ELM,” **Neurocomputing** [paper](https://www.sciencedirect.com/science/article/pii/S0925231219300839) [code](https://github.com/chenchao666/JDMC)
 * **Chao Chen**, Xinyu Jin, Boyuan Jiang, Lanjuan Li “Optimizing Extreme Learning Machine via Generalized Hebbian Learning
