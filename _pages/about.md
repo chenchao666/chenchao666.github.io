@@ -23,7 +23,8 @@ My research interests cover a range of issues : **Statistics and Optimization**,
   - **GPA:** 3.81/4.0 \| **Rank:** 1/58 &nbsp;&nbsp; **Average Score:** 91.66/100 \| **Rank:** 1/58
 
 ## <span style="color: green"> Publications </span>
-* Zhihong Chen, **Chao Chen**, Zhaowei Cheng, Ke fang, Xinyu Jin, ""
+* Zhihong Chen, **Chao Chen**, Zhaowei Cheng, Ke fang, Xinyu Jin, "Selective Transfer with Reinforced Transfer Network
+for Partial Domain Adaptation" (submit to NeurIPS-19)
 * **Chao Chen**, Zhihang Fu, Zhihong Chen, Zhaowei Cheng, Xinyu Jin, Xian-sheng Hua "Towards Self-similarity Consistency and Feature Discrimination for Unsupervised Domain Adaptation," (submmit to ACMMM-19) 
 * Zhihong Chen, **Chao Chen**, Boyuan Jiang, Xinyu Jin “Deep Joint Two-stream Wasserstein Auto-Encoder and Selective Attention Alignment for Unsupervised Domain Adaptation,” **Neural Computing and Applications**.
 * **Chao Chen**, Zhihong Chen, Boyuan Jiang, Xinyu Jin “Joint Domain Alignment and Discriminative Feature Learning for Unsupervised Deep Domain Adaptation,” **AAAI 2019**. [paper](https://arxiv.org/abs/1808.09347) [code](https://github.com/chenchao666/JDDA-Master)
