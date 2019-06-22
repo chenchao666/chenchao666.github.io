@@ -15,8 +15,8 @@ redirect_from:
 My research interests cover a range of issues : **Statistics and Optimization**, **Deep Learning**, **Transfer Learning**, and their Applications in Computer Vision and Biomedical Informatics. Currently, I am working on Domain Adaptation and their applications to semantic segmentation.
 
 ## <span style="color: green"> Education & Experience </span>
-*  **April 2019 - now** Reasearch Intern in City Brain, DAMO Acdamic, Alibaba Group.
-* **Sep 2016 - now:** **PhD Candidate** in Zhejiang University (ZJU), Hangzhou, China
+*  **April 2019 - now: ** Reasearch Intern in City Brain, DAMO Acdamic, Alibaba Group.
+* **Sep 2016 - now: ** **PhD Candidate** in Zhejiang University (ZJU), Hangzhou, China
   - **Major:**  Electronic Science and Technology in the school of Information Science and Electronic Enginerring 
   - **Lab:** Center for Intelligent Information Processing and Smart Healthcare
 * **Sep 2012 - Jun 2016:** **Bachelor of Engineering** Anhui University (AHU), Hefei, China
