@@ -25,8 +25,9 @@ My research interests cover a range of issues : **Statistics and Optimization**,
 
 ## <span style="color: green"> Publications </span>
 * Zhihong Chen, **Chao Chen**, Zhaowei Cheng, Ke fang, Xinyu Jin, "Selective Transfer with Reinforced Transfer Network
-for Partial Domain Adaptation" (submit to NeurIPS-19)
-* **Chao Chen**, Zhihang Fu, Zhihong Chen, Zhaowei Cheng, Xinyu Jin, Xian-sheng Hua "Towards Self-similarity Consistency and Feature Discrimination for Unsupervised Domain Adaptation," (submmit to ACMMM-19) 
+for Partial Domain Adaptation" (submit to CVPR2020)
+* **Chao Chen**, Zhihang Fu, Zhihong Chen, Zhaowei Cheng, Xinyu Jin, Xian-sheng Hua "Towards Self-similarity Consistency and Feature Discrimination for Unsupervised Domain Adaptation," (submmit to neural network) 
+* **Chao Chen**, Zhihang Fu, Zhihong Chen, Sheng Jin, Zhaowei Cheng, Xinyu Jin, Xian-sheng Hua "HoMM: Higher-order Moment Matching for Unsupervised Domain Adaptation," **AAAI-2020**
 * Zhihong Chen, **Chao Chen**, Boyuan Jiang, Xinyu Jin “Deep Joint Two-stream Wasserstein Auto-Encoder and Selective Attention Alignment for Unsupervised Domain Adaptation,” **Neural Computing and Applications**.
 * **Chao Chen**, Zhihong Chen, Boyuan Jiang, Xinyu Jin “Joint Domain Alignment and Discriminative Feature Learning for Unsupervised Deep Domain Adaptation,” **AAAI 2019**. [paper](https://arxiv.org/abs/1808.09347) [code](https://github.com/chenchao666/JDDA-Master)
 * **Chao Chen**, Boyuan Jiang, Zhaowei Cheng, Xinyu Jin “Joint Domain Matching and Classification for Cross-Domain Adaptation Via ELM,” **Neurocomputing** [paper](https://www.sciencedirect.com/science/article/pii/S0925231219300839) [code](https://github.com/chenchao666/JDMC)
