@@ -25,6 +25,7 @@ My research interests cover a range of issues : **Statistics and Optimization**,
   - **GPA:** 3.81/4.0 \| **Rank:** 1/58 &nbsp;&nbsp; **Average Score:** 91.66/100 \| **Rank:** 1/58
 
 ## <span style="color: green"> Publications </span>
+* Sheng Jin, Hongxun Yao, Qin Zhou, Yao Liu, **Chao Chen**, Xiaoshuai Sun, Xian-Sheng Hua, "Unsupervised Discrete Hashing for Fast Image Retrieval" (submit to CVPR2020)
 * Zhihong Chen, **Chao Chen**, Zhaowei Cheng, Ke fang, Xinyu Jin, "Selective Transfer with Reinforced Transfer Network
 for Partial Domain Adaptation" (submit to CVPR2020)
 * **Chao Chen**, Zhihang Fu, Zhihong Chen, Zhaowei Cheng, Xinyu Jin, Xian-sheng Hua "Towards Self-similarity Consistency and Feature Discrimination for Unsupervised Domain Adaptation," (submmit to neural network) 
