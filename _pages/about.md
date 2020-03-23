@@ -25,10 +25,10 @@ My research interests cover a range of issues : **Statistics and Optimization**,
   - **GPA:** 3.81/4.0 \| **Rank:** 1/58 &nbsp;&nbsp; **Average Score:** 91.66/100 \| **Rank:** 1/58
 
 ## <span style="color: green"> Publications </span>
-* Pelen Liu, Renjun Xu, Liyan Wang, **Chao Chen**, Jindong Wang, "Reliable Weighted Optimal Transport for Unsupervised Domain Adaptation" (submit to CVPR2020)
-* Sheng Jin, Hongxun Yao, Qin Zhou, Yao Liu, **Chao Chen**, Xiaoshuai Sun, Xian-Sheng Hua, "Unsupervised Discrete Hashing for Fast Image Retrieval" (submit to CVPR2020)
+* Sheng Jin, Hongxun Yao, Qin Zhou, Yao Liu, **Chao Chen**, Xiaoshuai Sun, Xian-Sheng Hua, "Unsupervised Discrete Hashing for Fast Image Retrieval" (submit to ACMMM-2020)
+* Pelen Liu, Renjun Xu, Liyan Wang, **Chao Chen**, Jindong Wang, "Reliable Weighted Optimal Transport for Unsupervised Domain Adaptation" **CVPR2020**
 * Zhihong Chen, **Chao Chen**, Zhaowei Cheng, Ke fang, Xinyu Jin, "Selective Transfer with Reinforced Transfer Network
-for Partial Domain Adaptation" (submit to CVPR2020)
+for Partial Domain Adaptation"  **CVPR2020**
 * **Chao Chen**, Zhihang Fu, Zhihong Chen, Zhaowei Cheng, Xinyu Jin, Xian-sheng Hua "Towards Self-similarity Consistency and Feature Discrimination for Unsupervised Domain Adaptation," (submmit to neural network) 
 * **Chao Chen**, Zhihang Fu, Zhihong Chen, Sheng Jin, Zhaowei Cheng, Xinyu Jin, Xian-sheng Hua "HoMM: Higher-order Moment Matching for Unsupervised Domain Adaptation," **AAAI-2020**
 * Sheng Jin, Shangchen Zhou, Yao Liu, **Chao Chen**, Xiaoshuai Sun, Hongxun Yao, Xian-Sheng Hua, "SSAH: Semi-supervised Adversarial Deep Hashing with Self-paced Hard Sample Generation," **AAAI-2020** 
