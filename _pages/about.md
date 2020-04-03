@@ -51,8 +51,16 @@ the common subspace,” **Neural Computing and Applications**. [paper](https://l
   - Famaliar with GAN-based methods.
   - Famaliar with GCN-based methods.
   - Familiar with (convex and non-convex) optimization theory, matrix analysis. 
+  
+## <span style="color: green"> Academic service & Membership </span>
+* PC member/Reviewer: MICCAI, TIP, Neurocomputing, IEEE Access, Neural Processing Letters.
+* IEEE Student Member
+* AAAI Student Member
+
 
 ## <span style="color: green"> Honors & Awards </span>(selected)
+*  &nbsp; &nbsp; **Fall** 2019  &nbsp; &nbsp; &nbsp; Outstanding Graduate, Outstanding Ph.D stipend
+* **Summer** 2019 &nbsp; China Scholar Council Scholarship
 *  &nbsp; &nbsp; **Fall** 2016  &nbsp; &nbsp; &nbsp; Excellent doctoral freshmen scholarship (select 57 from all doctoral freshmen)
 * **Summer** 2016 &nbsp; Top 10 outstanding undergraduate student in School of Electronic Information Engineering, Anhui University (select Top 10 from 500)
 * **Summer** 2016 &nbsp; Outstanding graduate student of Anhui Province (<3%)
