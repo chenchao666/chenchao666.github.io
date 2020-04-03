@@ -46,10 +46,13 @@ the common subspace,” **Neural Computing and Applications**. [paper](https://l
 
 ## <span style="color: green"> Skills </span>
 * **Programming Skills :** **Python**, **Matlab**, C/C++, \LATEX, Git.
-* **Machine Learning :** master in **Convolutional neural networks (CNNs)**, **Transfer Learning**, **Domain Adaptaion**, **Self-supervised Learning**, **Low-shot Learning**, **Attention-based Methods**, **Fine-grained image recognition**, **Medical imaging** **Extreme Learning Machine**.
-  - Familiar with most statistical machine learning/signal processing algorithms/techques. 
+* **Tools:** **Tensorflow**, **Keras**, **Pytorch**, **Numpy**, **sklearn**, **Opencv**
+* **Machine Learning :** master in **Convolutional neural networks (CNNs)**, **Transfer Learning**, **Domain Adaptaion**, **Self-supervised Learning**, **Weakly supervised Learning**, **Low-shot Learning**, **Attention-based Methods**, **Fine-grained image recognition**, **Medical imaging** **Extreme Learning Machine**.
+  - Familiar with most statistical machine learning/signal processing algorithms/techques.
+  - Famaliar with GAN-based methods.
+  - Famaliar with GCN-based methods.
   - Familiar with (convex and non-convex) optimization theory, matrix analysis. 
-* **Applications :** Familiar with CNN-Based Image Transformation methods, including Super-Resolution, Image-Completion, Image-Style-Transfer and Semantic-Segmentation, etc.
+
 
 ## <span style="color: green"> Honors & Awards </span>(selected)
 *  &nbsp; &nbsp; **Fall** 2016  &nbsp; &nbsp; &nbsp; Excellent doctoral freshmen scholarship (select 57 from all doctoral freshmen)
