@@ -8,8 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-### <span style="color: green"> Bio. </span> 
-**Chao Chen** Candidate Ph.D in Zhejiang University of China.
+### <span style="color: green"> News. </span> 
+* 2020-03: One paper has been submited to MICCAI-2020, "Attention-Guided Discriminative Region Localization for Bone Age Assessment". I was invited as a PC Member of MICCAI-2020
+* 2020-03: Two co-author paper have been accepted by CVPR-2020.
+
+
+### <span style="color: green"> Short Bio. </span> 
+**Chao Chen** Candidate Ph.D in Zhejiang University of China. I am currently visiting UCLA Computational Diagnostics Lab, sponsored by China Scholarship Council. Before visiting UCLA, I worked as a research intern in in City Brain, DAMO Academy, Alibaba Group. My research interest cover a range of issues:  Statistics and Optimization, Deep Learning, Transfer Learning, Domain Adaptation, Low-shot Learning, Unsupervised/Self-supervised/Weakly-supervised Learning, Fine-grained visual recognition, image-to-image tranformation, Uncertainty in Deep Models....
 
 ## <span style="color: green"> Research Interests </span>
 My research interests cover a range of issues : **Statistics and Optimization**, **Deep Learning**, **Transfer Learning**, and their Applications in Computer Vision and Biomedical Informatics. 
