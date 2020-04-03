@@ -9,8 +9,10 @@ redirect_from:
 ---
 
 ### <span style="color: green"> News. </span> 
-* 2020-03: One paper has been submited to MICCAI-2020, "Attention-Guided Discriminative Region Localization for Bone Age Assessment". I was invited as a PC Member of MICCAI-2020
+* 2020-03: One paper has been submited to MICCAI-2020, "Attention-Guided Discriminative Region Localization for Bone Age Assessment".
 * 2020-03: Two co-author paper have been accepted by CVPR-2020.
+* 2019-11: Start visiting UCLA Computational Diagnostics Lab.
+* 2019-11: Two of our paper (one first author and one co-author) have been accepted by AAAI-2020.
 
 
 ### <span style="color: green"> Short Bio. </span> 
