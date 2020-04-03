@@ -46,7 +46,7 @@ the common subspace,” **Neural Computing and Applications**. [paper](https://l
 ## <span style="color: green"> Skills </span>
 * **Programming Skills :** **Python**, **Matlab**, C/C++, \LATEX, Git.
 * **Tools:** **Tensorflow**, **Keras**, **Pytorch**, **Numpy**, **sklearn**, **Opencv**
-* **Machine Learning :** master in **Convolutional neural networks (CNNs)**, **Transfer Learning**, **Domain Adaptaion**, **Self-supervised Learning**, **Weakly supervised Learning**, **Low-shot Learning**, **Attention-based Methods**, **Fine-grained image recognition**, **Medical imaging**, **Extreme Learning Machine**.
+* **Machine Learning :** master in **Convolutional neural networks (CNNs)**, **Transfer Learning**, **Domain Adaptaion**, **Self-supervised Learning**, **Weakly supervised Learning**, **Low-shot Learning**, **Unsupervised Feature Learning**, **Metric Learning**, **Attention-based Methods**, **Fine-grained image recognition**, **Second-order/ higher-order Statistcis**, **Medical imaging**, **Extreme Learning Machine**.
   - Familiar with most statistical machine learning/signal processing algorithms/techques.
   - Famaliar with GAN-based methods.
   - Famaliar with GCN-based methods.
