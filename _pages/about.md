@@ -50,7 +50,7 @@ the common subspace,” **Neural Computing and Applications**. [paper](https://l
   - Familiar with most statistical machine learning/signal processing algorithms/techques.
   - Famaliar with GAN-based methods.
   - Famaliar with GCN-based methods.
-  - Familiar with (convex and non-convex) optimization theory, matrix analysis. 
+  - Familiar with (convex and non-convex) optimization theory, matrix/tensor analysis. 
   
 ## <span style="color: green"> Academic service & Membership </span>
 * PC member/Reviewer: MICCAI, TIP, Neurocomputing, IEEE Access, Neural Processing Letters.
