@@ -25,6 +25,7 @@ My research interests cover a range of issues : **Statistics and Optimization**,
   - **GPA:** 3.81/4.0 \| **Rank:** 1/58 &nbsp;&nbsp; **Average Score:** 91.66/100 \| **Rank:** 1/58
 
 ## <span style="color: green"> Publications </span>
+* **Chao Chen**, Zhihong Chen, Xinyu Jin, Lanjuan Li, William Speier, Corey Arnold. "Attention-Guided Discriminative Region Localization for Bone Age Assessment" (submit to MICCAI-2020)
 * Sheng Jin, Hongxun Yao, Qin Zhou, Yao Liu, **Chao Chen**, Xiaoshuai Sun, Xian-Sheng Hua, "Unsupervised Discrete Hashing for Fast Image Retrieval" (submit to ACMMM-2020)
 * Pelen Liu, Renjun Xu, Liyan Wang, **Chao Chen**, Jindong Wang, "Reliable Weighted Optimal Transport for Unsupervised Domain Adaptation" **CVPR2020**
 * Zhihong Chen, **Chao Chen**, Zhaowei Cheng, Ke fang, Xinyu Jin, "Selective Transfer with Reinforced Transfer Network
