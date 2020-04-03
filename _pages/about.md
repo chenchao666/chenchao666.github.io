@@ -52,7 +52,7 @@ the common subspace,” **Neural Computing and Applications**. [paper](https://l
   - Famaliar with GCN-based methods.
   - Familiar with (convex and non-convex) optimization theory, matrix/tensor analysis. 
   
- * **Applications:** Classification, Video action recognition, 3D Conv Modle, image-to-image transformation (super-resolution, denoising, deblurring, enhancement, style-transfer, segmentation...)
+ * **Applications:** Classification, Video action recognition, 3D Conv Model, image-to-image transformation (super-resolution, denoising, deblurring, enhancement, style-transfer, segmentation...)
   
 ## <span style="color: green"> Academic service & Membership </span>
 * PC member/Reviewer: MICCAI, TIP, Neurocomputing, IEEE Access, Neural Processing Letters.
