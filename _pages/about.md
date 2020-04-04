@@ -25,7 +25,7 @@ His research interest cover a range of issues: Statistics and Optimization, Deep
 * **Nov 2019 - now:** **Visiting Student** in University of California, Los Angeles (UCLA).
 * **Apr 2019 - Nov 2019:** **Reasearch Intern** in City Brain, DAMO Academy, Alibaba Group.
 * **Sep 2016 - now:** **PhD Candidate** in Zhejiang University (ZJU), Hangzhou, China
-  - **Major:**  Electronic Science and Technology in the school of Information Science and Electronic Enginerring 
+  - **Dept:**  School of Information Science and Electronic Enginerring 
   - **Lab:** Center for Intelligent Information Processing and Smart Healthcare
 * **Sep 2012 - Jun 2016:** **Bachelor of Engineering** Anhui University (AHU), Hefei, China
   - **Major:**  Internest of Things.
