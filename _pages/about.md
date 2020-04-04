@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to My Home Page !"
+title: "Welcome to Chao Chen's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
