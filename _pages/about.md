@@ -16,7 +16,7 @@ redirect_from:
 
 
 ### <span style="color: green"> Short Bio. </span> 
-**Chao Chen** Candidate Ph.D in Zhejiang University of China. I am currently visiting UCLA Computational Diagnostics Lab, sponsored by China Scholarship Council. Before that, I worked as a research intern in in City Brain, DAMO Academy, Alibaba Group. My research interest cover a range of issues:  Statistics and Optimization, Deep Learning, Transfer Learning, Domain Adaptation, Low-shot Learning, Unsupervised/Self-supervised/Weakly-supervised Learning, Fine-grained visual recognition, image-to-image tranformation, Uncertainty in Deep Models, Applying all deep models in vision tasks and medical images...
+**Chao Chen** Candidate Ph.D in Zhejiang University of China. I am currently visiting UCLA Computational Diagnostics Lab, sponsored by China Scholarship Council. Before that, I worked as a research intern in in City Brain, DAMO Academy, Alibaba Group. My research interest mainly about machine learning, deep learning and their applications to computer vision and medical informatics.
 
 
 ## <span style="color: green"> Education & Experience </span>
@@ -68,7 +68,7 @@ the common subspace,” **Neural Computing and Applications**. [paper](https://l
 ## <span style="color: green"> Honors & Awards </span>(selected)
 *  &nbsp; &nbsp; **Fall** 2019  &nbsp; &nbsp; &nbsp; Outstanding Graduate, Outstanding Ph.D stipend
 * **Summer** 2019 &nbsp; China Scholar Council Scholarship
-*  &nbsp; &nbsp; **Fall** 2016  &nbsp; &nbsp; &nbsp; Excellent doctoral freshmen scholarship (select 57 from all doctoral freshmen)
+*  &nbsp; &nbsp; **Fall** 2016  &nbsp; &nbsp; &nbsp; Excellent doctoral freshmen scholarship.
 * **Summer** 2016 &nbsp; Top 10 outstanding undergraduate student in School of Electronic Information Engineering, Anhui University (select Top 10 from 500)
 * **Summer** 2016 &nbsp; Outstanding graduate student of Anhui Province (<3%)
 * **Summer** 2016 &nbsp; Excellent graduate student of Anhui University 
