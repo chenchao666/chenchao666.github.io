@@ -16,7 +16,7 @@ redirect_from:
 
 
 ### <span style="color: green"> Short Bio. </span> 
-**Chao Chen** is a Ph.D Candidate in Zhejiang University of China. He is currently visiting UCLA Computational Diagnostics Lab, sponsored by China Scholarship Council. Before that, he worked as a research intern in in City Brain, DAMO Academy, Alibaba Group.
+**Chao Chen** is a Ph.D Candidate in Zhejiang University of China. He is currently visiting UCLA Computational Diagnostics Lab, sponsored by China Scholarship Council. Before that, he worked as a research intern in City Brain, DAMO Academy, Alibaba Group.
 
 His research interest cover a range of issues: Statistics and Optimization, Deep Learning, Transfer Learning, Domain Adaptation, Low-shot Learning, Unsupervised/Self-supervised/Weakly-supervised Learning, Fine-grained visual recognition, image-to-image tranformation, Uncertainty in Deep Models. Now he is focusing on self-supervised learning and applying all kind of deep models in vision tasks and medical informatics.
 
