@@ -17,7 +17,7 @@ redirect_from:
 ### <span style="color: green"> Short Bio. </span> 
 **Chao Chen** is a Ph.D Candidate in Zhejiang University of China. He is currently visiting UCLA Computational Diagnostics Lab, sponsored by China Scholarship Council. Before that, he worked as a research intern in City Brain, DAMO Academy, Alibaba Group.
 
-His research interest cover a range of issues: Statistics and Optimization, Deep Learning, Transfer Learning, Domain Adaptation, Low-shot Learning, Unsupervised/Self-supervised/Weakly-supervised Learning, Fine-grained visual recognition, image-to-image tranformation, Uncertainty in Deep Models. Now he is focusing on self-supervised learning and applying all kind of deep models in vision tasks and medical informatics.
+His research interest cover a range of issues: Statistics and Optimization, Deep Learning, Transfer Learning, Low-shot Learning, Unsupervised/Self-supervised/Weakly-supervised Learning, Fine-grained visual recognition, Image-to-Image Translation. Currently, he is focusing on applying all kind of deep models in vision tasks and medical informatics.
 
 
 ## <span style="color: green"> Education & Experience </span>
@@ -58,10 +58,10 @@ the common subspace,” **Neural Computing and Applications**. [paper](https://l
   - Famaliar with GCN-based methods.
   - Familiar with (convex and non-convex) optimization theory, matrix/tensor analysis. 
   
- * **Applications:** Classification, Video action recognition, 3D Conv Model, image-to-image transformation (super-resolution, denoising, deblurring, enhancement, style-transfer, segmentation...)
+ * **Applications:** Classification, Video action recognition, 3D Conv Model, image-to-image translation (super-resolution, denoising, deblurring, enhancement, style-transfer, segmentation...)
   
 ## <span style="color: green"> Academic service & Membership </span>
-* PC member/Reviewer: MICCAI, TIP, Neurocomputing, IEEE Access, Neural Processing Letters.
+* PC member/Reviewer: MICCAI, IEEE-TIP, ACM-TOMM, Neurocomputing, IEEE Access, Neural Processing Letters.
 * IEEE Student Member
 * AAAI Student Member
 
