@@ -15,9 +15,9 @@ redirect_from:
 
 
 ### <span style="color: green"> Short Bio. </span> 
-**Chao Chen** is a Ph.D Candidate in Zhejiang University of China. He is currently visiting UCLA Computational Diagnostics Lab, sponsored by China Scholarship Council. Before that, he worked as a research intern in City Brain, DAMO Academy, Alibaba Group.
+I am a Senior Algorithm Engineer at DAMO Academy, Alibaba Group, while I work on deep learning, computer vision, image and video analysis. Before I join Alibaba, I got my Ph.D degree from Zhejiang University in 2021. 
 
-His research interest cover a range of issues: Statistics and Optimization, Deep Learning, Transfer Learning, Low-shot Learning, Unsupervised/Self-supervised/Weakly-supervised Learning, Fine-grained visual recognition, Image-to-Image Translation. Currently, he is focusing on applying all kind of deep models in vision tasks and medical informatics.
+My research interest cover a range of issues: Statistics and Optimization, Deep Learning, Transfer Learning, Low-shot Learning, Unsupervised/Self-supervised/Weakly-supervised Learning, Fine-grained visual recognition, Image-to-Image Translation.
 
 
 ## <span style="color: green"> Education & Experience </span>
@@ -33,12 +33,12 @@ His research interest cover a range of issues: Statistics and Optimization, Deep
   - **GPA:** 3.81/4.0 \| **Rank:** 1/58 &nbsp;&nbsp; **Average Score:** 91.66/100 \| **Rank:** 1/58
 
 ## <span style="color: green"> Publications </span>
-* **Chao Chen**, Zhihong Chen, Xinyu Jin, Lanjuan Li, William Speier, Corey Arnold. "Attention-Guided Discriminative Region Localization for Bone Age Assessment" (submit to IEEE JHBI)
-* Sheng Jin, Hongxun Yao, Qin Zhou, Yao Liu, **Chao Chen**, Xiaoshuai Sun, Xian-Sheng Hua, "Unsupervised Discrete Hashing for Fast Image Retrieval" (submit to ACMMM-2020)
+* **Chao Chen**, Catalina Raymond, Bill Speier, Xinyu Jin, Timothy F Cloughesy, Dieter Enzmann, Benjamin M Ellingson, Corey W Arnold. "Synthesizing MR image contrast enhancement using 3D high-resolution ConvNets" **IEEE TBME**
+* **Chao Chen**, Zhihong Chen, Xinyu Jin, Lanjuan Li, William Speier, Corey Arnold. "Attention-Guided Discriminative Region Localization for Bone Age Assessment"  **IEEE JBHI**
 * Pelen Liu, Renjun Xu, Liyan Wang, **Chao Chen**, Jindong Wang, "Reliable Weighted Optimal Transport for Unsupervised Domain Adaptation" **CVPR2020**
 * Zhihong Chen, **Chao Chen**, Zhaowei Cheng, Ke fang, Xinyu Jin, "Selective Transfer with Reinforced Transfer Network
 for Partial Domain Adaptation"  **CVPR2020**
-* **Chao Chen**, Zhihang Fu, Zhihong Chen, Zhaowei Cheng, Xinyu Jin, Xian-sheng Hua "Towards Self-similarity Consistency and Feature Discrimination for Unsupervised Domain Adaptation," (submmit to neural network) 
+* **Chao Chen**, Zhihang Fu, Zhihong Chen, Zhaowei Cheng, Xinyu Jin, Xian-sheng Hua "Towards Self-similarity Consistency and Feature Discrimination for Unsupervised Domain Adaptation," **Signal Processing: Image Communication**
 * **Chao Chen**, Zhihang Fu, Zhihong Chen, Sheng Jin, Zhaowei Cheng, Xinyu Jin, Xian-sheng Hua "HoMM: Higher-order Moment Matching for Unsupervised Domain Adaptation," **AAAI-2020**
 * Sheng Jin, Shangchen Zhou, Yao Liu, **Chao Chen**, Xiaoshuai Sun, Hongxun Yao, Xian-Sheng Hua, "SSAH: Semi-supervised Adversarial Deep Hashing with Self-paced Hard Sample Generation," **AAAI-2020** 
 * **Chao Chen**, Zhihong Chen, Boyuan Jiang, Xinyu Jin “Joint Domain Alignment and Discriminative Feature Learning for Unsupervised Deep Domain Adaptation,” **AAAI-2019**. [paper](https://arxiv.org/abs/1808.09347) [code](https://github.com/chenchao666/JDDA-Master)
