@@ -21,6 +21,8 @@ His research interest cover a range of issues: Statistics and Optimization, Deep
 
 
 ## <span style="color: green"> Education & Experience </span>
+* **Oct 2020 - Now:** **Senior Algorithm Engineer** in DAMA Academy, Alibaba Group.
+* **Apr 2020 - Sep 2020:** **Intern** in DAMA Academy, Alibaba Group.
 * **Nov 2019 - now:** **Visiting Student** in University of California, Los Angeles (UCLA).
 * **Apr 2019 - Nov 2019:** **Reasearch Intern** in City Brain, DAMO Academy, Alibaba Group.
 * **Sep 2016 - now:** **PhD Candidate** in Zhejiang University (ZJU), Hangzhou, China
