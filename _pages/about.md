@@ -27,7 +27,7 @@ His research interest cover a range of issues: Statistics and Optimization, Deep
   - **Dept:**  School of Information Science and Electronic Enginerring 
   - **Lab:** Center for Intelligent Information Processing and Smart Healthcare
 * **Sep 2012 - Jun 2016:** **Bachelor of Engineering** Anhui University (AHU), Hefei, China
-  - **Major:**  Internest of Things.
+  - **Major:**  Internet of Things.
   - **GPA:** 3.81/4.0 \| **Rank:** 1/58 &nbsp;&nbsp; **Average Score:** 91.66/100 \| **Rank:** 1/58
 
 ## <span style="color: green"> Publications </span>
