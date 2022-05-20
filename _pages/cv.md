@@ -11,22 +11,25 @@ redirect_from:
 **Chao Chen** Candidate Ph.D in Zhejiang University of China. [<span style="color: green"> CV </span>](https://github.com/chenchao666/chenchao666.github.io/blob/master/files/CV.pdf)
 
 ## <span style="color: green"> Research Interests </span>
-My research interests cover a range of issues : **Statistics and Optimization**, **Deep Learning**, **Transfer Learning**, and their Applications to Computer Vision and Biomedical Informatics. Currently, I am working on Domain Adaptation and their applications to semantic segmentation.
+My research interests cover a range of issues : **Statistics and Optimization**, **Deep Learning**, **Computer Vision**, **Medical Image Analysis**.
 
 ## <span style="color: green"> Education & Experience </span>
-* **Nov 2019 - now:** **Visiting Student** in University of California, Los Angeles (UCLA).
+* **Oct 2020 - Now:** **Senior Algorithm Engineer** in DAMA Academy, Alibaba Group.
+* **Apr 2020 - Sep 2020:** **Intern** in DAMA Academy, Alibaba Group.
+* **Nov 2019 - Nov 2020:** **Visiting Student** in University of California, Los Angeles (UCLA).
 * **Apr 2019 - Nov 2019:** **Reasearch Intern** in City Brain, DAMO Academy, Alibaba Group.
 * **Sep 2016 - now:** **PhD Candidate** in Zhejiang University (ZJU), Hangzhou, China
   - **Major:**  Electronic Science and Technology in the school of Information Science and Electronic Enginerring 
   - **Lab:** Center for Intelligent Information Processing and Smart Healthcare
 * **Sep 2012 - Jun 2016:** **Bachelor of Engineering** Anhui University (AHU), Hefei, China
-  - **Major:**  Internest of Things.
+  - **Major:**  Internet of Things.
   - **GPA:** 3.81/4.0 \| **Rank:** 1/58 &nbsp;&nbsp; **Average Score:** 91.66/100 \| **Rank:** 1/58
 
 ## <span style="color: green"> Publications </span>
 
-* **Chao Chen**, Zhihong Chen, Xinyu Jin, Lanjuan Li, William Speier, Corey Arnold. "Attention-Guided Discriminative Region Localization for Bone Age Assessment" (submit to MICCAI-2020)
-* Sheng Jin, Hongxun Yao, Qin Zhou, Yao Liu, **Chao Chen**, Xiaoshuai Sun, Xian-Sheng Hua, "Unsupervised Discrete Hashing for Fast Image Retrieval" (submit to ACMMM-2020)
+
+
+* **Chao Chen**, Zhihong Chen, Xinyu Jin, Lanjuan Li, William Speier, Corey Arnold. "Attention-Guided Discriminative Region Localization for Bone Age Assessment"  **IEEE JBHI**
 * Pelen Liu, Renjun Xu, Liyan Wang, **Chao Chen**, Jindong Wang, "Reliable Weighted Optimal Transport for Unsupervised Domain Adaptation" **CVPR2020**
 * Zhihong Chen, **Chao Chen**, Zhaowei Cheng, Ke fang, Xinyu Jin, "Selective Transfer with Reinforced Transfer Network
 for Partial Domain Adaptation"  **CVPR2020**
