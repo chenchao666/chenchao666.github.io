@@ -28,7 +28,7 @@ My research interests cover a range of issues : **Statistics and Optimization**,
 ## <span style="color: green"> Publications </span>
 
 
-
+* **Chao Chen**, Catalina Raymond, Bill Speier, Xinyu Jin, Timothy F Cloughesy, Dieter Enzmann, Benjamin M Ellingson, Corey W Arnold. "Synthesizing MR image contrast enhancement using 3D high-resolution ConvNets" **IEEE TBME**
 * **Chao Chen**, Zhihong Chen, Xinyu Jin, Lanjuan Li, William Speier, Corey Arnold. "Attention-Guided Discriminative Region Localization for Bone Age Assessment"  **IEEE JBHI**
 * Pelen Liu, Renjun Xu, Liyan Wang, **Chao Chen**, Jindong Wang, "Reliable Weighted Optimal Transport for Unsupervised Domain Adaptation" **CVPR2020**
 * Zhihong Chen, **Chao Chen**, Zhaowei Cheng, Ke fang, Xinyu Jin, "Selective Transfer with Reinforced Transfer Network
