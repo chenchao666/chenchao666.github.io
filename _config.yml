@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chao Chen's Homepage"
 title_separator          : "-"
 name                     : &name "Chao Chen"
-description              : &description "PhD Candidate in Zhejiang University of China"
+description              : &description "PhD, Alibaba DAMO Academy"
 url                      : https://chenchao666.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenchao666/chenchao666.github.io"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Chao Chen"
   avatar           : "profile.png"
-  bio              : "PhD Candidate in Zhejiang University of China"
+  bio              : "PhD, Alibaba DAMO Academy"
   location         : "Hangzhou, Zhejiang"
   employer         :
   googlescholar    : "https://scholar.google.com.hk/citations?user=_xDUAtQAAAAJ&hl=zh-CN"
