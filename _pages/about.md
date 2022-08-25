@@ -10,7 +10,7 @@ redirect_from:
 
 ### <span style="color: green"> News. </span> 
 * 2022-07 One paper is accepted by IEEE TBME
-* 2021-09 Graduated from Zhejiang Univrsity
+* 2021-09 Graduated from Zhejiang University
 * 2021-07 One paper is accepted by IEEE JBHI
 * 2021-04 One Paper is accepted by SPIC
 * 2020-03: Two papers are accepted by CVPR-2020.
