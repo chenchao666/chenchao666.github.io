@@ -12,7 +12,7 @@ redirect_from:
 * 2022-07 One paper is accepted by IEEE TBME
 * 2021-09 Graduated from Zhejiang University
 * 2021-07 One paper is accepted by IEEE JBHI
-* 2021-04 One Paper is accepted by SPIC
+* 2021-03 One Paper is accepted by SPIC
 * 2020-03: Two papers are accepted by CVPR-2020.
 * 2019-11: Visiting UCLA Computational Diagnostics Lab sponsored by CSC.
 * 2019-11: Two papers are accepted by AAAI-2020.
@@ -21,7 +21,7 @@ redirect_from:
 ### <span style="color: green"> Short Bio. </span> 
 I am a Senior Algorithm Engineer at DAMO Academy, Alibaba Group, while I work on deep learning, computer vision, image and video analysis. Before I join Alibaba, I got my Ph.D degree from Zhejiang University in 2021. 
 
-My research interest cover a range of issues: Statistics and Optimization, Deep Learning, Transfer Learning, Low-shot Learning, Unsupervised/Self-supervised/Weakly-supervised Learning, Fine-grained visual recognition, Image-to-Image Translation.
+My research interest mainly focus on Machine Learning, Computer Vision and Medical Image Analysis.
 
 
 ## <span style="color: green"> Education & Experience </span>
@@ -29,7 +29,7 @@ My research interest cover a range of issues: Statistics and Optimization, Deep 
 * **Apr 2020 - Sep 2020:** **Intern** in DAMA Academy, Alibaba Group.
 * **Nov 2019 - now:** **Visiting Student** in University of California, Los Angeles (UCLA).
 * **Apr 2019 - Nov 2019:** **Reasearch Intern** in City Brain, DAMO Academy, Alibaba Group.
-* **Sep 2016 - Sep 2021:** **PhD Degree** in Zhejiang University (ZJU), Hangzhou, China
+* **Sep 2016 - Sep 2021:** **Ph.D Degree** in Zhejiang University (ZJU), Hangzhou, China
   - **Dept:**  School of Information Science and Electronic Enginerring 
   - **Lab:** Center for Intelligent Information Processing and Smart Healthcare
 * **Sep 2012 - Jun 2016:** **Bachelor of Engineering** Anhui University (AHU), Hefei, China
