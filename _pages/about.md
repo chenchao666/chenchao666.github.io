@@ -25,9 +25,9 @@ My research interest mainly focus on Machine Learning, Computer Vision and Medic
 
 
 ## <span style="color: green"> Education & Experience </span>
-* **Oct 2020 - Now:** **Senior Algorithm Engineer** in DAMA Academy, Alibaba Group.
-* **Apr 2020 - Sep 2020:** **Intern** in DAMA Academy, Alibaba Group.
-* **Nov 2019 - now:** **Visiting Student** in University of California, Los Angeles (UCLA).
+* **Oct 2021 - Now:** **Senior Algorithm Engineer** in DAMA Academy, Alibaba Group.
+* **Apr 2021 - Sep 2021:** **Intern** in DAMA Academy, Alibaba Group.
+* **Nov 2019 - Nov 2020:** **Visiting Student** in University of California, Los Angeles (UCLA).
 * **Apr 2019 - Nov 2019:** **Reasearch Intern** in City Brain, DAMO Academy, Alibaba Group.
 * **Sep 2016 - Sep 2021:** **Ph.D Degree** in Zhejiang University (ZJU), Hangzhou, China
   - **Dept:**  School of Information Science and Electronic Enginerring 
