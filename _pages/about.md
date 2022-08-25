@@ -14,7 +14,7 @@ redirect_from:
 * 2021-07 One paper is accepted by IEEE JBHI
 * 2021-03 One Paper is accepted by SPIC
 * 2020-03: Two papers are accepted by CVPR-2020.
-* 2019-11: Visiting UCLA Computational Diagnostics Lab sponsored by CSC.
+* 2019-11: Visiting UCLA Computational Diagnostics Lab, sponsored by CSC.
 * 2019-11: Two papers are accepted by AAAI-2020.
 
 
