@@ -11,4 +11,4 @@ redirect_from:
 Please feel free to contact with me, If you have any questions about the __papers, projects, or blogs__.
 * **Email:** chench@zju.edu.cn, zjuchaoc@gmail.com
 * **Tel:** +86-15268581240
-* **QQ:** 1208196372
+* **wechat:** 15268581240
