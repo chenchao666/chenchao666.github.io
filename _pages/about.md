@@ -19,7 +19,7 @@ redirect_from:
 
 
 ### <span style="color: green"> Short Bio. </span> 
-I am a Senior Algorithm Engineer at DAMO Academy, Alibaba Group, while I work on deep learning, computer vision, image and video analysis. Before I join Alibaba, I got my Ph.D degree from Zhejiang University in 2021. 
+I am a Senior Algorithm Engineer at DAMO Academy, Alibaba Group, while I work on deep learning, computer vision, image and video analysis. Before I join Alibaba, I received my Ph.D degree from Zhejiang University in 2021. 
 
 My research interest mainly focus on Machine Learning, Computer Vision and Medical Image Analysis.
 
