@@ -52,7 +52,8 @@ and Intrinsic Plasticity Learning,” **Neural Processing Letters** [paper](http
 International Joint Conference on Neural Networks [paper](https://arxiv.org/abs/1809.01018) [code](https://github.com/chenchao666/PTELM)
 
 ______________________________
-Kai Liu, Zhihang Fu, **Chao Chen**, Sheng Jin, Ze Chen, Mingyuan Tao, Rongxin Jiang, Jieping Ye. "Category-Extensible Out-of-Distribution Detection via Hierarchical Context Descriptions" **NeurIPS-2023**
+
+* Kai Liu, Zhihang Fu, **Chao Chen**, Sheng Jin, Ze Chen, Mingyuan Tao, Rongxin Jiang, Jieping Ye. "Category-Extensible Out-of-Distribution Detection via Hierarchical Context Descriptions" **NeurIPS-2023**
 * Pelen Liu, Renjun Xu, Liyan Wang, **Chao Chen**, Jindong Wang, "Reliable Weighted Optimal Transport for Unsupervised Domain Adaptation" **CVPR-2020**
 * Zhihong Chen, **Chao Chen**, Zhaowei Cheng, Ke fang, Xinyu Jin, "Selective Transfer with Reinforced Transfer Network
 for Partial Domain Adaptation"  **CVPR-2020**
