@@ -56,7 +56,7 @@ ______________________________
 * Zhihong Chen, **Chao Chen**, Zhaowei Cheng, Ke fang, Xinyu Jin. "Selective Transfer with Reinforced Transfer Network for Partial Domain Adaptation"  **CVPR-2020**.
 * Sheng Jin, Shangchen Zhou, Yao Liu, **Chao Chen**, Xiaoshuai Sun, Hongxun Yao, Xian-Sheng Hua. "SSAH: Semi-supervised Adversarial Deep Hashing with Self-paced Hard Sample Generation" **AAAI-2020**.
 * Jinyang Huang, Bin Liu, Pengfei Liu, **Chao Chen**, Ning Xiao, Yu Wu, Chi Zhang, Nenghai Yu. “Towards anti-interference WiFi-based activity recognition system using interference-independent phase component” **IEEE INFOCOM**.
-* Zhihong Chen, **Chao Chen**, Boyuan Jiang, Xinyu Jin. “Deep Joint Two-stream Wasserstein Auto-Encoder and Selective Attention Alignment for Unsupervised Domain Adaptation” **Neural Computing and Applications**.
+* Zhihong Chen, **Chao Chen**, Boyuan Jiang, Xinyu Jin. “Deep Joint Two-stream Wasserstein Auto-Encoder and Selective Attention Alignment for Unsupervised Domain Adaptation” **Neural Computing & Applications**.
 * Boyuan Jiang, **Chao Chen**, Xinyu Jin “Unsupervised domain adaptation with target reconstruction and label confusion in the common subspace” **Neural Computing & Applications** [paper](https://link.springer.com/article/10.1007/s00521-018-3846-x).
 * Jinyang Huang, Bin Liu, **Chao Chen**, Hongxin Jin, Zhiqiang Liu, Chi Zhang, Nenghai Yu. "Towards anti-interference human activity recognition based on WiFi subcarrier correlation selection," **IEEE TVT**.
 * Zhaowei Cheng, **Chao Chen**, Zhihong Chen, Ke Fang, Xinyu Jin, "Robust and high-order correlation alignment for unsupervised domain adaptation," **Neural Computing & Allpication**.
@@ -75,7 +75,7 @@ ______________________________
  * **Applications:** Classification, Video action recognition, 3D Conv Model, image-to-image translation (super-resolution, denoising, deblurring, enhancement, style-transfer, segmentation...)
   
 ## <span style="color: green"> Academic service & Membership </span>
-* PC member/Reviewer: MICCAI, IEEE-TIP, ACM-TOMM, Neurocomputing, IEEE Access, Neural Processing Letters.
+* PC member/Reviewer: MICCAI, IEEE-TIP, ACM-TOMM, Neurocomputing.
 * IEEE Student Member
 * AAAI Student Member
 
