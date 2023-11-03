@@ -38,32 +38,28 @@ My research interest mainly focus on Machine Learning, Computer Vision and Medic
   - **GPA:** 3.81/4.0 \| **Rank:** 1/58 &nbsp;&nbsp; **Average Score:** 91.66/100 \| **Rank:** 1/58
 
 ## <span style="color: green"> Publications </span>
-* **Chao Chen**, Zhihang Fu, Kai Liu, Ze Chen, Mingyuan Tao, Jieping Ye. "Optimal Parameter and Neuron Pruning for
-Out-of-Distribution Detection" **NeurIPS-2023**.
+* **Chao Chen**, Zhihang Fu, Kai Liu, Ze Chen, Mingyuan Tao, Jieping Ye. "Optimal Parameter and Neuron Pruning for Out-of-Distribution Detection" **NeurIPS-2023**.
 * **Chao Chen**, Catalina Raymond, Bill Speier, Xinyu Jin, Timothy F Cloughesy, Dieter Enzmann, Benjamin M Ellingson, Corey W Arnold. "Synthesizing MR image contrast enhancement using 3D high-resolution ConvNets" **IEEE TBME**.
-* **Chao Chen**, Zhihong Chen, Xinyu Jin, Lanjuan Li, William Speier, Corey Arnold. "Attention-Guided Discriminative Region Localization for Bone Age Assessment"  **IEEE JBHI**
-* **Chao Chen**, Zhihang Fu, Zhihong Chen, Zhaowei Cheng, Xinyu Jin, Xian-sheng Hua "Towards Self-similarity Consistency and Feature Discrimination for Unsupervised Domain Adaptation," **Signal Processing: Image Communication**.
-* **Chao Chen**, Zhihang Fu, Zhihong Chen, Sheng Jin, Zhaowei Cheng, Xinyu Jin, Xian-sheng Hua "HoMM: Higher-order Moment Matching for Unsupervised Domain Adaptation," **AAAI-2020**.
-* **Chao Chen**, Zhihong Chen, Boyuan Jiang, Xinyu Jin “Joint Domain Alignment and Discriminative Feature Learning for Unsupervised Deep Domain Adaptation,” **AAAI-2019**. [paper].(https://arxiv.org/abs/1808.09347) [code](https://github.com/chenchao666/JDDA-Master).
-* **Chao Chen**, Boyuan Jiang, Zhaowei Cheng, Xinyu Jin “Joint Domain Matching and Classification for Cross-Domain Adaptation Via ELM,” **Neurocomputing** [paper](https://www.sciencedirect.com/science/article/pii/S0925231219300839) [code](https://github.com/chenchao666/JDMC).
-* **Chao Chen**, Xinyu Jin, Boyuan Jiang, Lanjuan Li “Optimizing Extreme Learning Machine via Generalized Hebbian Learning.
-and Intrinsic Plasticity Learning,” **Neural Processing Letters** [paper](https://link.springer.com/article/10.1007/s11063-018-9869-6)
-* **Chao Chen**, Boyuan Jiang, Xinyu Jin “Parameter Transfer Extreme Learning Machine based on Projective Model,” **IJCNN-2018**,
+* **Chao Chen**, Zhihong Chen, Xinyu Jin, Lanjuan Li, William Speier, Corey Arnold. "Attention-Guided Discriminative Region Localization for Bone Age Assessment"  **IEEE JBHI**.
+* **Chao Chen**, Zhihang Fu, Zhihong Chen, Zhaowei Cheng, Xinyu Jin, Xian-sheng Hua. "Towards Self-similarity Consistency and Feature Discrimination for Unsupervised Domain Adaptation" **Signal Processing: Image Communication**.
+* **Chao Chen**, Zhihang Fu, Zhihong Chen, Sheng Jin, Zhaowei Cheng, Xinyu Jin, Xian-sheng Hua. "HoMM: Higher-order Moment Matching for Unsupervised Domain Adaptation" **AAAI-2020**.
+* **Chao Chen**, Zhihong Chen, Boyuan Jiang, Xinyu Jin. “Joint Domain Alignment and Discriminative Feature Learning for Unsupervised Deep Domain Adaptation” **AAAI-2019**. [paper].(https://arxiv.org/abs/1808.09347) [code](https://github.com/chenchao666/JDDA-Master).
+* **Chao Chen**, Boyuan Jiang, Zhaowei Cheng, Xinyu Jin. “Joint Domain Matching and Classification for Cross-Domain Adaptation Via ELM” **Neurocomputing** [paper](https://www.sciencedirect.com/science/article/pii/S0925231219300839) [code](https://github.com/chenchao666/JDMC).
+* **Chao Chen**, Xinyu Jin, Boyuan Jiang, Lanjuan Li. “Optimizing Extreme Learning Machine via Generalized Hebbian Learning and Intrinsic Plasticity Learning”. **Neural Processing Letters** [paper](https://link.springer.com/article/10.1007/s11063-018-9869-6).
+* **Chao Chen**, Boyuan Jiang, Xinyu Jin. “Parameter Transfer Extreme Learning Machine based on Projective Model” **IJCNN-2018**
 International Joint Conference on Neural Networks [paper](https://arxiv.org/abs/1809.01018) [code](https://github.com/chenchao666/PTELM).
 
 ______________________________
 
-* Kai Liu, Zhihang Fu, **Chao Chen**, Sheng Jin, Ze Chen, Mingyuan Tao, Rongxin Jiang, Jieping Ye. "Category-Extensible Out-of-Distribution Detection via Hierarchical Context Descriptions" **NeurIPS-2023**
-* Pelen Liu, Renjun Xu, Liyan Wang, **Chao Chen**, Jindong Wang, "Reliable Weighted Optimal Transport for Unsupervised Domain Adaptation" **CVPR-2020**
-* Zhihong Chen, **Chao Chen**, Zhaowei Cheng, Ke fang, Xinyu Jin, "Selective Transfer with Reinforced Transfer Network
-for Partial Domain Adaptation"  **CVPR-2020**
-* Sheng Jin, Shangchen Zhou, Yao Liu, **Chao Chen**, Xiaoshuai Sun, Hongxun Yao, Xian-Sheng Hua, "SSAH: Semi-supervised Adversarial Deep Hashing with Self-paced Hard Sample Generation," **AAAI-2020**
-* Jinyang Huang, Bin Liu, Pengfei Liu, **Chao Chen**, Ning Xiao, Yu Wu, Chi Zhang, Nenghai Yu, “Towards anti-interference WiFi-based activity recognition system using interference-independent phase component,” **IEEE IOFOCOM**.
-* Zhihong Chen, **Chao Chen**, Boyuan Jiang, Xinyu Jin “Deep Joint Two-stream Wasserstein Auto-Encoder and Selective Attention Alignment for Unsupervised Domain Adaptation,” **Neural Computing and Applications**.
-* Boyuan Jiang, **Chao Chen**, Xinyu Jin “Unsupervised domain adaptation with target reconstruction and label confusion in
-the common subspace,” **Neural Computing and Applications**. [paper](https://link.springer.com/article/10.1007/s00521-018-3846-x)
+* Kai Liu, Zhihang Fu, **Chao Chen**, Sheng Jin, Ze Chen, Mingyuan Tao, Rongxin Jiang, Jieping Ye. "Category-Extensible Out-of-Distribution Detection via Hierarchical Context Descriptions" **NeurIPS-2023**.
+* Pelen Liu, Renjun Xu, Liyan Wang, **Chao Chen**, Jindong Wang. "Reliable Weighted Optimal Transport for Unsupervised Domain Adaptation" **CVPR-2020**.
+* Zhihong Chen, **Chao Chen**, Zhaowei Cheng, Ke fang, Xinyu Jin. "Selective Transfer with Reinforced Transfer Network for Partial Domain Adaptation"  **CVPR-2020**.
+* Sheng Jin, Shangchen Zhou, Yao Liu, **Chao Chen**, Xiaoshuai Sun, Hongxun Yao, Xian-Sheng Hua. "SSAH: Semi-supervised Adversarial Deep Hashing with Self-paced Hard Sample Generation" **AAAI-2020**.
+* Jinyang Huang, Bin Liu, Pengfei Liu, **Chao Chen**, Ning Xiao, Yu Wu, Chi Zhang, Nenghai Yu. “Towards anti-interference WiFi-based activity recognition system using interference-independent phase component” **IEEE INFOCOM**.
+* Zhihong Chen, **Chao Chen**, Boyuan Jiang, Xinyu Jin. “Deep Joint Two-stream Wasserstein Auto-Encoder and Selective Attention Alignment for Unsupervised Domain Adaptation” **Neural Computing and Applications**.
+* Boyuan Jiang, **Chao Chen**, Xinyu Jin “Unsupervised domain adaptation with target reconstruction and label confusion in the common subspace” **Neural Computing & Applications** [paper](https://link.springer.com/article/10.1007/s00521-018-3846-x).
 * Jinyang Huang, Bin Liu, **Chao Chen**, Hongxin Jin, Zhiqiang Liu, Chi Zhang, Nenghai Yu. "Towards anti-interference human activity recognition based on WiFi subcarrier correlation selection," **IEEE TVT**.
-* Zhaowei Cheng, Chao Chen, Zhihong Chen, Ke Fang, Xinyu Jin, "Robust and high-order correlation alignment for unsupervised domain adaptation," **Neural Computing & Allpication**.
+* Zhaowei Cheng, **Chao Chen**, Zhihong Chen, Ke Fang, Xinyu Jin, "Robust and high-order correlation alignment for unsupervised domain adaptation," **Neural Computing & Allpication**.
 
 
 
