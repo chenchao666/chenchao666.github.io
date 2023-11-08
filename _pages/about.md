@@ -38,7 +38,7 @@ My research interest mainly focus on Machine Learning, Computer Vision and Medic
   - **GPA:** 3.81/4.0 \| **Rank:** 1/58 &nbsp;&nbsp; **Average Score:** 91.66/100 \| **Rank:** 1/58
 
 ## <span style="color: green"> Publications </span>
-* **Chao Chen**, Kai Liu, Ze Chen, Yi Gu, Yue Wu, Mingyuan Tao, Zhihang Fu, Jieping Ye. "Optimal Parameter and Neuron Pruning for Out-of-Distribution Detection" **Submitted to ICLR-2024**
+* **Chao Chen**, Kai Liu, Ze Chen, Yi Gu, Yue Wu, Mingyuan Tao, Zhihang Fu, Jieping Ye. "INSIDE: LLMs' Internal States Retain the Power of Hallucination Detection" **Submitted to ICLR-2024**
 * **Chao Chen**, Zhihang Fu, Kai Liu, Ze Chen, Mingyuan Tao, Jieping Ye. "Optimal Parameter and Neuron Pruning for Out-of-Distribution Detection" **NeurIPS-2023**.
 * **Chao Chen**, Catalina Raymond, Bill Speier, Xinyu Jin, Timothy F Cloughesy, Dieter Enzmann, Benjamin M Ellingson, Corey W Arnold. "Synthesizing MR image contrast enhancement using 3D high-resolution ConvNets" **IEEE TBME**.
 * **Chao Chen**, Zhihong Chen, Xinyu Jin, Lanjuan Li, William Speier, Corey Arnold. "Attention-Guided Discriminative Region Localization for Bone Age Assessment"  **IEEE JBHI**.
