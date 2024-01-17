@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ### <span style="color: green"> News. </span> 
+* 2024-01 One paper is accepted by ICLR-2024
 * 2023-09 Two papers are accepted by NeurIPS-2023
 * 2022-07 One paper is accepted by IEEE TBME
 * 2021-09 Graduated from Zhejiang University
@@ -20,9 +21,9 @@ redirect_from:
 
 
 ### <span style="color: green"> Short Bio. </span> 
-I am a Senior Algorithm Engineer at DAMO Academy, Alibaba Group, while I work on deep learning, computer vision, image and video analysis. Before I join Alibaba, I received my Ph.D degree from Zhejiang University in 2021. 
+I am a Senior Algorithm Engineer at DAMO Academy, Alibaba Group, while I work on LLM, Deep Learning, Computer Vision. Before I join Alibaba, I received my Ph.D degree from Zhejiang University in 2021. 
 
-My research interest mainly focus on Machine Learning, Computer Vision and Medical Image Analysis.
+My research interest mainly focus on Machine Learning, Computer Vision.
 
 
 ## <span style="color: green"> Education & Experience </span>
@@ -38,7 +39,7 @@ My research interest mainly focus on Machine Learning, Computer Vision and Medic
   - **GPA:** 3.81/4.0 \| **Rank:** 1/58 &nbsp;&nbsp; **Average Score:** 91.66/100 \| **Rank:** 1/58
 
 ## <span style="color: green"> Publications </span>
-* **Chao Chen**, Kai Liu, Ze Chen, Yi Gu, Yue Wu, Mingyuan Tao, Zhihang Fu, Jieping Ye. "INSIDE: LLMs' Internal States Retain the Power of Hallucination Detection" **Submitted to ICLR-2024**
+* **Chao Chen**, Kai Liu, Ze Chen, Yi Gu, Yue Wu, Mingyuan Tao, Zhihang Fu, Jieping Ye. "INSIDE: LLMs' Internal States Retain the Power of Hallucination Detection" **ICLR-2024**
 * **Chao Chen**, Zhihang Fu, Kai Liu, Ze Chen, Mingyuan Tao, Jieping Ye. "Optimal Parameter and Neuron Pruning for Out-of-Distribution Detection" **NeurIPS-2023**.
 * **Chao Chen**, Catalina Raymond, Bill Speier, Xinyu Jin, Timothy F Cloughesy, Dieter Enzmann, Benjamin M Ellingson, Corey W Arnold. "Synthesizing MR image contrast enhancement using 3D high-resolution ConvNets" **IEEE TBME**.
 * **Chao Chen**, Zhihong Chen, Xinyu Jin, Lanjuan Li, William Speier, Corey Arnold. "Attention-Guided Discriminative Region Localization for Bone Age Assessment"  **IEEE JBHI**.
