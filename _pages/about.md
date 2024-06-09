@@ -66,7 +66,6 @@ ______________________________
 * Zhaowei Cheng, **Chao Chen**, Zhihong Chen, Ke Fang, Xinyu Jin, "Robust and high-order correlation alignment for unsupervised domain adaptation," **Neural Computing & Allpication**.
 
 
-
 ## <span style="color: green"> Skills </span>
 * **Programming Skills :** **Python**, **Matlab**, C/C++, \LATEX, Git.
 * **Tools:** **Tensorflow**, **Keras**, **Pytorch**, **Numpy**, **sklearn**, **Opencv**
