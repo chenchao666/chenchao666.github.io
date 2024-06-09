@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 ### <span style="color: green"> News. </span> 
+* 2024-05 Three papers are sumbitted to NeurIPS-2024
 * 2024-01 One paper is accepted by ICLR-2024
 * 2023-09 Two papers are accepted by NeurIPS-2023
 * 2022-07 One paper is accepted by IEEE TBME
@@ -39,11 +40,11 @@ My research interest mainly focus on Machine Learning, Computer Vision.
   - **GPA:** 3.81/4.0 \| **Rank:** 1/58 &nbsp;&nbsp; **Average Score:** 91.66/100 \| **Rank:** 1/58
 
 ## <span style="color: green"> Publications </span>
-* **Chao Chen**, Kai Liu, Ze Chen, Yi Gu, Yue Wu, Mingyuan Tao, Zhihang Fu, Jieping Ye. "INSIDE: LLMs' Internal States Retain the Power of Hallucination Detection" **ICLR-2024**
-* **Chao Chen**, Zhihang Fu, Kai Liu, Ze Chen, Mingyuan Tao, Jieping Ye. "Optimal Parameter and Neuron Pruning for Out-of-Distribution Detection" **NeurIPS-2023**.
-* **Chao Chen**, Catalina Raymond, Bill Speier, Xinyu Jin, Timothy F Cloughesy, Dieter Enzmann, Benjamin M Ellingson, Corey W Arnold. "Synthesizing MR image contrast enhancement using 3D high-resolution ConvNets" **IEEE TBME**.
-* **Chao Chen**, Zhihong Chen, Xinyu Jin, Lanjuan Li, William Speier, Corey Arnold. "Attention-Guided Discriminative Region Localization for Bone Age Assessment"  **IEEE JBHI**.
-* **Chao Chen**, Zhihang Fu, Zhihong Chen, Zhaowei Cheng, Xinyu Jin, Xian-sheng Hua. "Towards Self-similarity Consistency and Feature Discrimination for Unsupervised Domain Adaptation" **Signal Processing: Image Communication**.
+* **Chao Chen**, Kai Liu, Ze Chen, Yi Gu, Yue Wu, Mingyuan Tao, Zhihang Fu, Jieping Ye. "INSIDE: LLMs' Internal States Retain the Power of Hallucination Detection" **ICLR-2024**. [paper](https://arxiv.org/abs/2402.03744)
+* **Chao Chen**, Zhihang Fu, Kai Liu, Ze Chen, Mingyuan Tao, Jieping Ye. "Optimal Parameter and Neuron Pruning for Out-of-Distribution Detection" **NeurIPS-2023**. [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/a4316bb210a59fb7aafeca5dd21c2703-Paper-Conference.pdf)
+* **Chao Chen**, Catalina Raymond, Bill Speier, Xinyu Jin, Timothy F Cloughesy, Dieter Enzmann, Benjamin M Ellingson, Corey W Arnold. "Synthesizing MR image contrast enhancement using 3D high-resolution ConvNets" **IEEE TBME**. [paper](https://ieeexplore.ieee.org/abstract/document/9833335)
+* **Chao Chen**, Zhihong Chen, Xinyu Jin, Lanjuan Li, William Speier, Corey Arnold. "Attention-Guided Discriminative Region Localization for Bone Age Assessment"  **IEEE JBHI**. [paper](https://ieeexplore.ieee.org/abstract/document/9476989)
+* **Chao Chen**, Zhihang Fu, Zhihong Chen, Zhaowei Cheng, Xinyu Jin, Xian-sheng Hua. "Towards Self-similarity Consistency and Feature Discrimination for Unsupervised Domain Adaptation" **Signal Processing: Image Communication**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0923596521000576)
 * **Chao Chen**, Zhihang Fu, Zhihong Chen, Sheng Jin, Zhaowei Cheng, Xinyu Jin, Xian-sheng Hua. "HoMM: Higher-order Moment Matching for Unsupervised Domain Adaptation" **AAAI-2020**.
 * **Chao Chen**, Zhihong Chen, Boyuan Jiang, Xinyu Jin. “Joint Domain Alignment and Discriminative Feature Learning for Unsupervised Deep Domain Adaptation” **AAAI-2019**. [paper].(https://arxiv.org/abs/1808.09347) [code](https://github.com/chenchao666/JDDA-Master).
 * **Chao Chen**, Boyuan Jiang, Zhaowei Cheng, Xinyu Jin. “Joint Domain Matching and Classification for Cross-Domain Adaptation Via ELM” **Neurocomputing** [paper](https://www.sciencedirect.com/science/article/pii/S0925231219300839) [code](https://github.com/chenchao666/JDMC).
