@@ -9,6 +9,8 @@ redirect_from:
 ---
 
 ### <span style="color: green"> News. </span> 
+* 2025-05 One paper is accepted by ICML-2025
+* 2025-02 One paper is accepted by CVPR-2025
 * 2025-01 One paper is accepted by ICLR-2025
 * 2024-05 Two papers are accepted by NeurIPS-2024
 * 2024-01 One paper is accepted by ICLR-2024
