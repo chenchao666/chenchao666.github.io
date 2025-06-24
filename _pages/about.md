@@ -9,14 +9,13 @@ redirect_from:
 ---
 
 ### <span style="color: green"> News. </span> 
-* 2025-05 One paper is accepted by ICML-2025
-* 2025-02 One paper is accepted by CVPR-2025
-* 2025-01 One paper is accepted by ICLR-2025
-* 2024-05 Two papers are accepted by NeurIPS-2024
-* 2024-01 One paper is accepted by ICLR-2024
-* 2023-09 Two papers are accepted by NeurIPS-2023
-* 2022-07 One paper is accepted by IEEE TBME
-
+* 2025-05 One paper accepted by ICML-2025
+* 2025-02 One paper accepted by CVPR-2025
+* 2025-01 One paper accepted by ICLR-2025
+* 2024-05 Two papers accepted by NeurIPS-2024
+* 2024-01 One paper accepted by ICLR-2024
+* 2023-09 Two papers accepted by NeurIPS-2023
+* 2022-07 One paper accepted by IEEE TBME
 
 
 ### <span style="color: green"> Short Bio. </span> 
