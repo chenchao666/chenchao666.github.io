@@ -9,38 +9,30 @@ redirect_from:
 ---
 
 ### <span style="color: green"> News. </span> 
-* 2024-05 Three papers are sumbitted to NeurIPS-2024
+* 2025-01 One paper is accepted by ICLR-2025
+* 2024-05 Two papers are accepted by NeurIPS-2024
 * 2024-01 One paper is accepted by ICLR-2024
 * 2023-09 Two papers are accepted by NeurIPS-2023
 * 2022-07 One paper is accepted by IEEE TBME
-* 2021-09 Graduated from Zhejiang University
-* 2021-07 One paper is accepted by IEEE JBHI
-* 2021-03 One Paper is accepted by SPIC
-* 2020-03: Two papers are accepted by CVPR-2020.
-* 2019-11: Visiting UCLA Computational Diagnostics Lab, sponsored by CSC.
-* 2019-11: Two papers are accepted by AAAI-2020.
+
 
 
 ### <span style="color: green"> Short Bio. </span> 
-I am a Senior Algorithm Engineer at DAMO Academy, Alibaba Group, while I work on LLM, Deep Learning, Computer Vision. Before I join Alibaba, I received my Ph.D degree from Zhejiang University in 2021. 
-
-My research interest mainly focus on Machine Learning, Computer Vision.
+I am an Algorithm Expert at Alibaba Group, while I work on LLM Agent, Post-Training. Before I join Alibaba, I received my Ph.D degree from Zhejiang University in 2021. 
 
 
 ## <span style="color: green"> Education & Experience </span>
-* **Oct 2021 - Now:** **Senior Algorithm Engineer** in DAMO Academy, Alibaba Group.
+* **Oct 2023 - Now:** **Algorithm Expert** in Alibaba Cloud, Alibaba Group.
+* **Oct 2021 - Oct 2023:** **Senior Algorithm Engineer** in DAMO Academy, Alibaba Group.
 * **Apr 2021 - Sep 2021:** **Intern** in DAMO Academy, Alibaba Group.
 * **Nov 2019 - Nov 2020:** **Visiting Student** in University of California, Los Angeles (UCLA).
 * **Apr 2019 - Nov 2019:** **Reasearch Intern** in City Brain, DAMO Academy, Alibaba Group.
 * **Sep 2016 - Sep 2021:** **Ph.D Degree** in Zhejiang University (ZJU), Hangzhou, China
-  - **Dept:**  School of Information Science and Electronic Enginerring 
-  - **Lab:** Center for Intelligent Information Processing and Smart Healthcare
 * **Sep 2012 - Jun 2016:** **Bachelor of Engineering** Anhui University (AHU), Hefei, China
-  - **Major:**  Internet of Things.
-  - **GPA:** 3.81/4.0 \| **Rank:** 1/58 &nbsp;&nbsp; **Average Score:** 91.66/100 \| **Rank:** 1/58
+
 
 ## <span style="color: green"> Publications </span>
-* Xize Liang, **Chao Chen<sup>*</sup>**, Shuang Qiu, Jie Wang, Yue Wu, Zhihang Fu, Zhihao Shi, Feng Wu, Jieping Ye. "ROPO: Robust Preference Optimization for Large Language Models" **Submited to NeurIPS-2024**
+* Xize Liang, **Chao Chen<sup>*</sup>**, Shuang Qiu, Jie Wang, Yue Wu, Zhihang Fu, Zhihao Shi, Feng Wu, Jieping Ye. "ROPO: Robust Preference Optimization for Large Language Models" **ICML-2025** [paper](https://arxiv.org/abs/2404.04102)
 * **Chao Chen**, Kai Liu, Ze Chen, Yi Gu, Yue Wu, Mingyuan Tao, Zhihang Fu, Jieping Ye. "INSIDE: LLMs' Internal States Retain the Power of Hallucination Detection" **ICLR-2024**. [paper](https://arxiv.org/abs/2402.03744)
 * **Chao Chen**, Zhihang Fu, Kai Liu, Ze Chen, Mingyuan Tao, Jieping Ye. "Optimal Parameter and Neuron Pruning for Out-of-Distribution Detection" **NeurIPS-2023**. [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/a4316bb210a59fb7aafeca5dd21c2703-Paper-Conference.pdf)
 * **Chao Chen**, Catalina Raymond, Bill Speier, Xinyu Jin, Timothy F Cloughesy, Dieter Enzmann, Benjamin M Ellingson, Corey W Arnold. "Synthesizing MR image contrast enhancement using 3D high-resolution ConvNets" **IEEE TBME**. [paper](https://ieeexplore.ieee.org/abstract/document/9833335) [code](https://github.com/chenchao666/Contrast-enhanced-MRI-Synthesis)
@@ -54,7 +46,10 @@ My research interest mainly focus on Machine Learning, Computer Vision.
 International Joint Conference on Neural Networks [paper](https://arxiv.org/abs/1809.01018) [code](https://github.com/chenchao666/PTELM).
 
 ______________________________
-
+* Yang Qin, **Chao Chen**, Zhihang Fu, Dezhong Peng, Xi Peng, Peng Hu. "Human-centered Interactive Learning via MLLMs for Text-to-Image Person Re-identification" **CVPR-2025**.
+* Yang Qin, **Chao Chen**, Zhihang Fu, Ze Chen, Dezhong Peng, Peng Hu, Jieping Ye. "ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL" **ICLR-2025**.
+* Kai Liu, Zhihang Fu, **Chao Chen**, Wei Zhang, Rongxin Jiang, Fan Zhou, Yaowu Chen, Yue Wu, Jieping Ye. "Enhancing LLM's Cognition via Structurization" **NeurIPS-2024**.
+* Kai Liu, Zhihang Fu, Sheng Jin, **Chao Chen**, Ze Chen, Rongxin Jiang, Fan Zhou, Yaowu Chen, Jieping Ye. "Rethinking Out-of-Distribution Detection on Imbalanced Data Distribution" **NeurIPS-2024**.
 * Kai Liu, Zhihang Fu, **Chao Chen**, Sheng Jin, Ze Chen, Mingyuan Tao, Rongxin Jiang, Jieping Ye. "Category-Extensible Out-of-Distribution Detection via Hierarchical Context Descriptions" **NeurIPS-2023**.
 * Pelen Liu, Renjun Xu, Liyan Wang, **Chao Chen**, Jindong Wang. "Reliable Weighted Optimal Transport for Unsupervised Domain Adaptation" **CVPR-2020**.
 * Zhihong Chen, **Chao Chen**, Zhaowei Cheng, Ke fang, Xinyu Jin. "Selective Transfer with Reinforced Transfer Network for Partial Domain Adaptation"  **CVPR-2020**.
