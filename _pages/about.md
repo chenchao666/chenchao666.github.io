@@ -33,7 +33,7 @@ I am an Algorithm Expert at Alibaba Group, while I work on LLM Agent, Post-Train
 
 
 ## <span style="color: green"> Publications </span>
-* Xize Liang, **Chao Chen<sup>*</sup>**, Shuang Qiu, Jie Wang, Yue Wu, Zhihang Fu, Zhihao Shi, Feng Wu, Jieping Ye. "ROPO: Robust Preference Optimization for Large Language Models" **ICML-2025** [paper](https://arxiv.org/abs/2404.04102)
+* Xize Liang<sup>*</sup>, **Chao Chen<sup>*</sup>**, Shuang Qiu<sup>*</sup>, Jie Wang, Yue Wu, Zhihang Fu, Zhihao Shi, Feng Wu, Jieping Ye. "ROPO: Robust Preference Optimization for Large Language Models" **ICML-2025** [paper](https://arxiv.org/abs/2404.04102)
 * **Chao Chen**, Kai Liu, Ze Chen, Yi Gu, Yue Wu, Mingyuan Tao, Zhihang Fu, Jieping Ye. "INSIDE: LLMs' Internal States Retain the Power of Hallucination Detection" **ICLR-2024**. [paper](https://arxiv.org/abs/2402.03744)
 * **Chao Chen**, Zhihang Fu, Kai Liu, Ze Chen, Mingyuan Tao, Jieping Ye. "Optimal Parameter and Neuron Pruning for Out-of-Distribution Detection" **NeurIPS-2023**. [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/a4316bb210a59fb7aafeca5dd21c2703-Paper-Conference.pdf)
 * **Chao Chen**, Zhihang Fu, Zhihong Chen, Sheng Jin, Zhaowei Cheng, Xinyu Jin, Xian-sheng Hua. "HoMM: Higher-order Moment Matching for Unsupervised Domain Adaptation" **AAAI-2020**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/5745) [code](https://github.com/chenchao666/HoMM-Master)
